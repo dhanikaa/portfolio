@@ -30,7 +30,7 @@ const HeroSection = () => {
                     />
                 </h1>
                 <p className='text-[#ADB7BE] text-base sm:text-lg mb:6 lg:text-xl'>
-                    Gammac thamai mn ithin. Dannawane scene eka!
+                Welcome to the digital playground where lines of code dance to create magic!
                 </p>
                 <br></br>
                 <div>
