@@ -30,7 +30,7 @@ const HeroSection = () => {
                     />
                 </h1>
                 <p className='text-[#ADB7BE] text-base sm:text-lg mb:6 lg:text-xl'>
-                Welcome to the digital playground where lines of code dance to create magic!
+                Welcome to the digital playground where lines of code dance to create magic. Let's embark on a journey of creativity and innovation together!
                 </p>
                 <br></br>
                 <div>
